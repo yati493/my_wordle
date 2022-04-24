@@ -8,7 +8,6 @@ class WordleLetterBox extends StatelessWidget {
 
   const WordleLetterBox({Key? key, required this.index, required this.letter, required this.correctWord, required this.attempted}) : super(key: key);
 
-
   Color? getBgColor() {
     print("$correctWord $attempted");
     if(!attempted) return null;
