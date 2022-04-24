@@ -1,6 +1,6 @@
 # development
 
-Wordle using Flutter
+Wordle using Flutter!!
 
 ## Getting Started
 
